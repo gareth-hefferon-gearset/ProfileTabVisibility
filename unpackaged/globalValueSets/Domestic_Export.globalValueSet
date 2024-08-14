@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Domestic</fullName>
+        <default>false</default>
+        <label>Domestic</label>
+    </customValue>
+    <customValue>
+        <fullName>Export</fullName>
+        <default>false</default>
+        <label>Export</label>
+    </customValue>
+    <description>Is this domestic or export</description>
+    <masterLabel>Domestic/Export</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

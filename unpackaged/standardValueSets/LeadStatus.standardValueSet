@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>New</fullName>
+        <default>true</default>
+        <label>New</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>MQL</fullName>
+        <default>false</default>
+        <label>MQL</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Contacted</fullName>
+        <default>false</default>
+        <label>Contacted</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Presentation Scheduled</fullName>
+        <default>false</default>
+        <label>Presentation Scheduled</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Presentation Given</fullName>
+        <default>false</default>
+        <label>Presentation Given</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Nurture</fullName>
+        <default>false</default>
+        <label>Nurture</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Converted</fullName>
+        <default>false</default>
+        <label>Converted</label>
+        <converted>true</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Dead</fullName>
+        <default>false</default>
+        <label>Dead</label>
+        <converted>false</converted>
+    </standardValue>
+</StandardValueSet>
